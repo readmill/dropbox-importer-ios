@@ -554,7 +554,7 @@
 				DROPBOX_URL_SCHEME = "db-$(DROPBOX_APP_ID)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/hwaxxer/Development/RDMLDropboxImporter/Frameworks,
+					"$(SRCROOT)/Frameworks",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "RDMLDropboxImporterExample/RDMLDropboxImporterExample-Prefix.pch";
@@ -574,7 +574,7 @@
 				DROPBOX_URL_SCHEME = "db-$(DROPBOX_APP_ID)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/hwaxxer/Development/RDMLDropboxImporter/Frameworks,
+					"$(SRCROOT)/Frameworks",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "RDMLDropboxImporterExample/RDMLDropboxImporterExample-Prefix.pch";
